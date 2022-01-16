@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "create-react-app": "^5.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
